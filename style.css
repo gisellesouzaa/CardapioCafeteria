@@ -20,7 +20,7 @@ header, section {
     margin: 0 auto;
     background-color: #FFEDD5;
     border-radius: 10px;
-    box-shadow: 1px 1px 7px #995000, -1px -1px 7px #995000;
+    box-shadow: 1px 1px 5px #995000, -1px -1px 5px #995000;
 }
 
 header {
