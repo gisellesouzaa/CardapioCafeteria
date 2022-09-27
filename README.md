@@ -6,8 +6,6 @@
   <img alt="Página RocketCoffee" title="RocketCoffee" src="./PáginaRocketCoffee.png"/>
 </h1>
 
----
-
 ### 🛠 &nbsp; Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -22,11 +20,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+### Qr Code da aplicação:
+
+<img alt="Qr Code para acesso ao cardápio" title="Qr RocketCoffee" src="https://user-images.githubusercontent.com/107375752/192556625-f1d01e12-f015-4bf7-b250-e7cd5b15dad7.png" height="150" width="150"/>
+
+---
+
 ### Testar aplicação:
 
 <a href="https://gisellesouzaa.github.io/CardapioCafeteria/" target="_blank"><img align="center" alt="Testar Aplicação" src="https://img.shields.io/badge/Clique_aqui_para_testar_a_página-6DB33F?style=for-the-badge&logoColor=white"></a>
 
 ---
+
+
 
 ### Autor
 
